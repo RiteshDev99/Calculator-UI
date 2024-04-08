@@ -1,0 +1,255 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.main-box {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.iPhone {
+    height: 450px;
+    width: 230px;
+    border: 3px solid black;
+    border-radius: 32px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    flex-direction: column;
+}
+
+.dynamic {
+    margin: 10px;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    column-gap: 4px;
+}
+
+.camera {
+    height: 7px;
+    width: 7px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: rgb(73, 72, 75);
+}
+
+
+.iland {
+    height: 7px;
+    width: 27px;
+    /* margin-right: 8px; */
+    border-radius: 15px;
+    border: 2px solid black;
+    background-color: rgb(73, 72, 75);
+}
+
+
+.topbar {
+    /* background-color: aqua; */
+    padding-top: 2px;
+    height: fit-content;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.three {
+    display: flex;
+    column-gap: 5px;
+}
+
+.time {
+    font-size: 10px;
+    width: 45px;
+    color: rgb(222, 220, 226);
+}
+
+.signal,
+.wifi,
+.battery {
+    height: 12px;
+}
+
+.slider {
+    width: 80px;
+    height: 3px;
+    border-radius: 5px;
+    background-color:rgb(255, 253, 249);
+    translate: 73px 185px;
+}
+
+.midel-box {}
+
+.mid-box {
+    height: 400px;
+    width: 230px;
+   
+    border-radius: 20px;
+}
+
+.top-box {
+    display: flex;
+    justify-content: space-evenly;
+    translate: 0px 140px;
+
+
+}
+
+.box1 {
+    height: 38px;
+    width: 38px;
+
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: black;
+    background-color: rgb(136, 124, 124);
+    font-size: 20px;
+}
+
+.box2 {
+    height: 38px;
+    width: 38px;
+
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: black;
+    background-color: gray;
+    font-size: 20px;
+}
+
+.box3 {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: black;
+    background-color: gray;
+    font-size: 20px;
+}
+
+.box4 {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: rgb(241, 153, 21);
+    font-size: 20px;
+}
+
+.top-box2 {
+    display: flex;
+    justify-content: space-evenly;
+    translate: 0px 140px;
+    padding-top: 7px;
+}
+
+
+.box5 {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: gray;
+    font-size: 20px;
+}
+
+.box6 {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: gray;
+    font-size: 20px;
+}
+
+.box7 {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: gray;
+    font-size: 20px;
+}
+
+.box8 {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: rgb(241, 153, 21);
+    font-size: 20px;
+}
+
+.top-box3 {
+    display: flex;
+    translate: 0px 140px;
+    padding-top: 7px;
+   justify-content: space-evenly;
+
+}
+
+.box9 {
+    height: 35px;
+    width: 85px;
+    border-radius:28px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 10px;
+    background-color: gray;
+    font-size: 23px;
+}
+
+.box10 {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: gray;
+    font-size: 30px;
+}
+
+.box11 {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: rgb(241, 153, 21);
+    font-size: 20px;
+}
+
